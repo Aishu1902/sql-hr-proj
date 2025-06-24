@@ -1,4 +1,5 @@
-💼 SQL Payroll Project (Intermediate Level)
+*💼 SQL Payroll Project (Intermediate Level) *
+<br>
 📊 Overview
 This project calculates the monthly payroll for employees using SQL. It processes data from four core tables to compute the final salary for April and May after accounting for leave deductions and other monthly deductions.
 
