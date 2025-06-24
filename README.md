@@ -1,25 +1,25 @@
-*💼 SQL Payroll Project (Intermediate Level) *
+💼<b> SQL Payroll Project (Intermediate Level)</b> 
 <br>
 📊 Overview
 This project calculates the monthly payroll for employees using SQL. It processes data from four core tables to compute the final salary for April and May after accounting for leave deductions and other monthly deductions.
-
+<br>
 🗂️ Tables Used
 Employee Table (employee)
 Contains basic details of 20 employees
-
+<br>
 Leave Table (leave)
 Stores leave records of employees.
 
 D = Full Day Leave → ₹1000 deducted
 
 H = Half Day (4 hours) → ₹500 deducted
-
+<br>
 Salary Table (salary)
 Contains the monthly base salary for each of the 20 employees.
-
+<br>
 Deduction Table (deduction)
 Contains tax or other monthly deductions for each employee for April and May.
-
+<br>
 📤 Output
 The final output displays the payroll for April and May with the following columns:
 
